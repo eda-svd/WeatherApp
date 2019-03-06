@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="cities_imgs">
+        <item>@drawable/moscow</item>
+        <item>@drawable/spb</item>
+        <item>@drawable/voronezh</item>
+        <item>@drawable/rostov</item>
+        <item>@drawable/kirov</item>
+        <item>@drawable/vladivostok</item>
+    </integer-array>
+</resources>

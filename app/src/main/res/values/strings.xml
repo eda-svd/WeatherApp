@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="greeting">Weather</string>
+    <string-array name="cities">
+        <item>moscow</item>
+        <item>spb</item>
+        <item>voronezh</item>
+        <item>rostov</item>
+        <item>kirov</item>
+        <item>vladivostok</item>
+    </string-array>
+    <string name="mainWindSpeed">Wind speed</string>
+    <string name="mainHumidity">Humidity</string>
+    <string name="mainPicture">Photo</string>
+    <string name="mainHint">DESIRED CITY</string>
+    <string name="button">SEARCH</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="windspeed">Wind speed:</string>
+    <string name="nocityerror">No such city in the list!</string>
+    <string name="sendmail">Send mail...</string>
+    <string name="nomailclienterror">No mail client installed on your device!</string>
+    <string name="helpButton">HELP</string>
+</resources>
